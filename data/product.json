@@ -1,0 +1,26 @@
+db.item.insert([
+    {
+        "_id":1,
+        "name": "Samsung S22",
+        "price" : 74000,
+        "ratings" : 4.5
+    },
+    {
+        "_id":2,
+        "name":"i-phone 13",
+        "price" : 58000,
+        "ratings": 4.3
+    },
+    {
+        "_id":3,
+        "name": "Mi Note 8",
+        "price" : 14000,
+        "ratings" : 3.5
+    },
+    {
+        "_id":4,
+        "name":"Realme",
+        "price" : 18000,
+        "ratings": 3.8
+    }
+])
